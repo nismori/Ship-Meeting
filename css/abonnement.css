@@ -1,0 +1,20 @@
+
+#titre{
+    border-style:solid;
+    text-align: center;
+    background-image: url("../images/image3.jpg");
+    background-size:100% 100%;
+    background-position: center;
+    font-size:1100%;
+    padding:9%;
+    margin:0px;
+    border-color:black;
+    border-radius:5px;
+    border-width:5px;
+    color:lightcoral;
+}
+
+table{
+    width:100%;
+    text-align: center;
+}
