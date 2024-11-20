@@ -1,0 +1,54 @@
+[
+    {
+        "email": "ManuelGarcia@jaiunmail.com",
+        "other_email": "JoseGarcia@jaiunmail.com",
+        "messages": [
+            "Frangin mais \u00e7a va faire 2 ans que je t'ai pas vu. Comment \u00e7a va",
+            "R\u00e9pond moi d\u00e8s que possible",
+            "Je m''inqu\u00e8te..."
+        ]
+    },
+    {
+        "email": "MadouIsWell@jaiunmail.com",
+        "other_email": "ManuelGarcia@jaiunmail.com",
+        "messages": [
+            "Bonjour Manuel, alors vous aussi vous aimez bien le couple ErenxMikasa",
+            "Je dois bien avouer que j'ai un petit faible pour vous aussi"
+        ]
+    },
+    {
+        "email": "ManuelGarcia@jaiunmail.com",
+        "other_email": "MadouIsWell@jaiunmail.com",
+        "messages": [
+            "D\u00e9gage la macab\u00e9, je cherche mon fr\u00e8re"
+        ]
+    },
+    {
+        "email": "JoseGarcia@jaiunmail.com",
+        "other_email": "victorgavioli@jaiunmail.com",
+        "messages": [
+            "Bonjour visiblement vous \u00eates mod\u00e9rateur, vous savez o\u00f9 est mon fr\u00e8re ?"
+        ]
+    },
+    {
+        "email": "victorgavioli@jaiunmail.com",
+        "other_email": "JoseGarcia@jaiunmail.com",
+        "messages": [
+            "T'es Ban \u00e7a d\u00e9gage"
+        ]
+    },
+    {
+        "email": "MathisEz@jaiunmail.com",
+        "other_email": "JoseGarcia@jaiunmail.com",
+        "messages": [
+            "Veuillez excusez mon coll\u00e8gue mod\u00e9rateur, je viens de vous d\u00e9bannir..."
+        ]
+    },
+    {
+        "email": "JoseGarcia@jaiunmail.com",
+        "other_email": "MathisEz@jaiunmail.com",
+        "messages": [
+            "Le vrai prix des bonnes choses"
+        ]
+    }
+]
