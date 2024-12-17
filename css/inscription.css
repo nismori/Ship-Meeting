@@ -1,0 +1,57 @@
+body {
+    background-image: url("../images/image3.png");
+    background-size: cover;
+}
+
+legend{
+    color: lightcoral;
+    text-align: center;
+    margin-top: 2%;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+table {
+    margin: 2% auto;
+    border-radius: 3px;
+    border-width: 10px;
+    border-color: black;
+    
+}
+
+td{
+    color:black;
+    font-size:30px;
+}
+
+input {
+    border: 1px solid #ccc;
+    padding-top: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+#id1{
+    border:none;
+}
+
+#inscription{
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+button:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.pointer:hover{
+    cursor:pointer;
+}

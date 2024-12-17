@@ -1,0 +1,44 @@
+
+#titre{
+    border-style:solid;
+    text-align: center;
+    background-image: url("../images/image3.png");
+    background-size:100% 100%;
+    background-position: center;
+    font-size:1100%;
+    padding:9%;
+    margin:0px;
+    border-color:black;
+    border-radius:5px;
+    border-width:5px;
+    color:lightcoral;
+}
+
+table{
+    width:100%;
+    text-align: center;
+}
+
+td{
+    background-color: lightcoral;
+    font-size:xx-large;
+    font-weight:bold;
+    border-style: solid;
+    border-top-width:5px;
+    border-left-width:5px;
+    border-right-width:5px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-style:none;
+}
+
+td:hover{
+    color:red;
+    cursor:pointer;
+}
+
+#accueil{
+    font-size:large;
+    border-style:solid;
+    margin-top:-2px;
+}

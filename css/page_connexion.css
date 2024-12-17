@@ -1,0 +1,40 @@
+#titre{
+    text-align: center;
+    background-image: url("../images/image3.png");
+    background-size:100% 100%;
+    background-position: center;
+    font-size:1100%;
+    padding:9%;
+    margin:0px;
+    border-color:black;
+    border-radius:5px;
+    border-width:5px;
+    color:lightcoral;
+}
+
+table{
+    width:100%;
+    text-align: center;
+}
+
+td{
+    font-size:xx-large;
+    font-weight:bold;
+    border-style: solid;
+    border-width:2px;
+    border-radius:10px;
+    background-color: lightblue;
+}
+
+td:hover{
+    color:lightyellow;
+    cursor:pointer;
+}
+
+
+#accueil{
+    font-size:large;
+    border-style:solid;
+    margin-top:0px;
+    padding:4.9%;
+}
